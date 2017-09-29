@@ -1,0 +1,9 @@
+
+img{
+    width: 500px;
+    height: 500px;
+}
+
+.navbar-inverse{
+    background-image: linear-gradient(to bottom,#A95A5A 0,#150101 100%);
+}
